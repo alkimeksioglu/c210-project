@@ -7,7 +7,7 @@ Analyzing personal credit card data from July 2023 to December 2023. The aim is 
 ## Data:
 
 ### Categorized Data
-- **File:** `categorized_data.csv` (available in this repo)
+- **File:** `categorical.csv` (available in this repo)
 - **Structure:** CSV with months as index and spending categories as columns.
 
   **Initial Columns:**
